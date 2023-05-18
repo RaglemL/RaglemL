@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RaglemL
 - 👀 I’m interested in networking
-- 🌱 I’m currently learning on my own router setup, nas setup, etc.
+- 🌱 I’m currently learning on my own how to setup routers, nas setup, etc.
 - 💞️ I’m looking to collaborate on anything I can
 - 📫 How to reach me, DM
 
