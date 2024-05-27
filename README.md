@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RaglemL
 - 👀 I’m interested in networking and cloud computing
-- 🌱 I’m self-teaching about routers, nas devices, virtualization, cloud solutions, etc.
+- 🌱 I’m self-teaching about routers, nas devices, virtualization, cloud solutions, AI, scripting etc.
 - 💞️ I’m looking to collaborate on anything I can
 - 📫 Wanna reach me? DM
 
