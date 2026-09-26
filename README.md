@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @RaglemL
-- 👀 I’m interested in networking, automation, and cloud computing
-- 🌱 I’m self-teaching about routers, nas devices, virtualization, cloud solutions, AI+automation, scripting, etc.
-- 💞️ I’m looking to collaborate on anything I can, if it's related to Google Workspace advanced admin, I'm all in
-- 📫 Wanna reach me? DM
-
-<!---
-RaglemL/RaglemL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Data Migration Engineer and Google Workspace Specialist, with 20+ years in IT.
+I focus on cloud-to-cloud data migrations and multi-tenant Workspace administration — primarily using CloudM Migrate and GAMADV-XTD3, alongside building the automation tooling that supports both. My work spans Google Workspace, GCP, and a self-hosted lab running Proxmox and Fedora that I use to test and build on.
+Certifications: Professional Google Workspace Administrator · Google Cloud ACE · Gemini CLI and GenAI Leader.
+Interests: Migration engineering, Workspace automation, self-hosted infrastructure.
